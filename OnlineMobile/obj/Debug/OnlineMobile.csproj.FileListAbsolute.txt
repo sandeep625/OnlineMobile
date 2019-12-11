@@ -1,0 +1,290 @@
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll.config
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\OnlineMobile.pdb
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe.config
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\csc.rsp
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe.config
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\csi.rsp
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.AppContext.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Collections.Immutable.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Console.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.Process.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Compression.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Pipes.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Reflection.Metadata.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.AccessControl.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Claims.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Principal.Windows.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Threading.Thread.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.ValueTuple.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XmlDocument.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe.config
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\vbc.rsp
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe.config
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csprojAssemblyReference.cache
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CoreCompileInputs.cache
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CopyComplete
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.dll
+G:\2nd sem\Projects\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.pdb
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll.config
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\OnlineMobile.pdb
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe.config
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\csc.rsp
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe.config
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\csi.rsp
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.AppContext.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Collections.Immutable.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Console.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.Process.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Compression.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Pipes.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Reflection.Metadata.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.AccessControl.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Claims.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Principal.Windows.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Threading.Thread.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.ValueTuple.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XmlDocument.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe.config
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\vbc.rsp
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe.config
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csprojAssemblyReference.cache
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CoreCompileInputs.cache
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CopyComplete
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.dll
+G:\2nd sem\Projects\Mobile\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.pdb
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll.config
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\OnlineMobile.pdb
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe.config
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\csc.rsp
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe.config
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\csi.rsp
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.AppContext.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Collections.Immutable.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Console.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.Process.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Compression.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Pipes.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Reflection.Metadata.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.AccessControl.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Claims.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Principal.Windows.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Threading.Thread.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.ValueTuple.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XmlDocument.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe.config
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\vbc.rsp
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe.config
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csprojAssemblyReference.cache
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CoreCompileInputs.cache
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CopyComplete
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.dll
+E:\sandeep bal project images\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.pdb
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll.config
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\OnlineMobile.pdb
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe.config
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\csc.rsp
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe.config
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\csi.rsp
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.AppContext.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Collections.Immutable.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Console.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.Process.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Compression.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Pipes.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Reflection.Metadata.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.AccessControl.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Claims.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Principal.Windows.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Threading.Thread.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.ValueTuple.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe.config
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\vbc.rsp
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe.config
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sandeep_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csprojAssemblyReference.cache
+D:\sandeep_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CoreCompileInputs.cache
+D:\sandeep_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CopyComplete
+D:\sandeep_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.dll
+D:\sandeep_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.pdb
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll.config
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\OnlineMobile.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\OnlineMobile.pdb
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\csc.exe.config
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\csc.rsp
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\csi.exe.config
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\csi.rsp
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.AppContext.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Collections.Immutable.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Console.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.Process.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Compression.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.IO.Pipes.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Reflection.Metadata.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.AccessControl.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Claims.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Security.Principal.Windows.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Threading.Thread.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.ValueTuple.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\vbc.exe.config
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\vbc.rsp
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\roslyn\VBCSCompiler.exe.config
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csprojAssemblyReference.cache
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CoreCompileInputs.cache
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.csproj.CopyComplete
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.dll
+D:\sandeepkaur_final project\OnlineMobile\OnlineMobile\obj\Debug\OnlineMobile.pdb

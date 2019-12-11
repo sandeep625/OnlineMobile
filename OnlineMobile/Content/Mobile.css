@@ -1,0 +1,74 @@
+﻿body {
+    width: 90%;
+    margin: auto;
+    background-color:whitesmoke;
+}
+#wrapper{
+    background-color:white;
+}
+.navbar-expand-lg {
+    background-color: #0d6371 !important;
+}
+.danger {
+    color: red;
+}
+#banner {
+    width: 100%;
+    height: 700px;
+    background-image: url("../images/banner/bannerimage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: red;
+    background-size: cover;
+    position: relative;
+}
+table{
+    margin-left:2%;
+    max-width:98%;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: #e0b226;
+}
+.navbar-light .navbar-brand {
+    color: #e0b226;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #e0b226;
+}
+.navbar-light .navbar-nav .nav-item :hover{
+    background-color:whitesmoke;
+    color:#000000;
+}
+.mobileDiv {
+        height:300px;
+        position: relative;
+        display: block;
+        max-height: 100%;
+        max-width: 100%;
+}
+@media only screen and (min-width:768px) {
+    .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+       text-align:center;
+    }
+    
+}
+.btn-success {
+    background-color: #2b90a0;
+    border-color: #2b90a0;
+}
+.btn-success:hover {
+    background-color: #2b90a0;
+    border-color: #2b90a0;
+}
+#footerwidget {
+    clear: both;
+    height: auto;
+    background-color: #0d6371;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: .9em;
+    height: auto;
+    margin: auto;
+    padding-bottom: 20px;
+}
